@@ -8,3 +8,5 @@
 - 개발 명세, 개발 결과, 검증 로그, 운영 설정은 포함하지 않습니다.
 
 `index.html`을 직접 열거나 GitHub Pages에서 확인할 수 있습니다.
+
+폰트는 [Pretendard v1.3.9](https://github.com/orioncactus/pretendard/tree/v1.3.9)를 사용합니다. SIL Open Font License 1.1 원문을 HTML에 포함했습니다. 폰트와 SHOPL 로고는 HTML에 내장되어 외부 리소스 요청 없이 표시됩니다.
